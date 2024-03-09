@@ -9,6 +9,10 @@ const data = [
     }, {
         id: 2,
         name: "Azeem"
+    },
+    {
+        id: 3,
+        name: "Belal"
     }
 ];
 
